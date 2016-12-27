@@ -17,5 +17,8 @@
 !/log/.keep
 !/tmp/.keep
 
+#Ignore the images
+/public/system/movies/images
+
 # Ignore Byebug command history file.
 .byebug_history
